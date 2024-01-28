@@ -1,2 +1,2 @@
 # php-pdo-solid
-Curso feito pela plataforma alura, sobre PDO e aplicando esse aprendizado com o conceito SOLID.
+Completei um curso na plataforma Alura que abrange o uso de PDO e sua aplicação prática junto aos princípios SOLID.
